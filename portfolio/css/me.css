@@ -36,19 +36,23 @@ html {
 .rightheader {
     flex-basis: 60%;
     margin-top: 3.75rem;
-    padding-left: 0.5rem;
-}
+    padding-left: 0;
+    margin-left: 0;
+
+  }
 
 .rightheader h1{
   color: honeydew;
   font-size: 3em;
   font-family: Roboto, cursive ;
+  padding-left: 0;
 }
 
 .rightheader p {
   margin-top: -2rem;
   color: honeydew;
   font-family: Roboto, cursive ;
+  padding-left: 0;
 }
 
 
